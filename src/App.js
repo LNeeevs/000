@@ -15,3 +15,5 @@ const hello = 'Hello World';
 console.log(`${hello}`);
 
 console.log(teste, fruta);
+
+console.log('Making a test...');
